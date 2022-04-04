@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?fxml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.text.*?>
+
+
+<TitledPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" text="FitBoyz" xmlns="http://javafx.com/javafx/11.0.14-internal">
+   <font>
+      <Font size="24.0" />
+   </font>
+</TitledPane>
